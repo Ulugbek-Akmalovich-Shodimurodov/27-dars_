@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+}
+
+.bg {
+    background: #2B3844 !important;
+}
+
+.site-bg {
+    background: cyan;
+}
+
+.bg-img {
+    background-image: url("../img/galaxy-tabpro-s-background-Is-4K-Wallpaper.jpg") !important;
+    background-size: cover;
+}
+
+.bg-warnin {
+    height: 90% !important;
+    background-image: url("../img/card__bg_img.jpg");
+    background-size: cover;
+}
+
+.bg-warnin1 {
+    height: 90% !important;
+    background-image: url("../img/bg_img.jpg");
+    background-size: cover;
+}
+
+.user-enterance {
+    padding: 160px 100px;
+}
+
+.site-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    width: 40px !important;
+    height: 40px !important;
+}
+
+.user_img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 50% !important;
+}
+
+.user_body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-left: 80px;
+}
